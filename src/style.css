@@ -1,19 +1,20 @@
-<<<<<<< HEAD
 form{
     margin-top: 10px;
 }
-
 .card{
     margin-top:100px;
     width: 50%;
     justify-content: center;
 }
 
-
-
-
-=======
-form {
-    margin-top: 100px;
+.acct-input{
+    margin-top: 100px ;
 }
->>>>>>> 88c37885ada9469ebd8d554f2dc2c69542fefeca
+
+.btn-login {
+    margin: 20px 200px;
+}
+.pwd{
+    text-align: center;
+}
+
