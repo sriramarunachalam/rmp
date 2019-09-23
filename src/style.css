@@ -1,6 +1,4 @@
-form {
-    margin-top: 30px;
-}
+
 .PreviousRequests {
     margin-top: 100px;
 }
@@ -15,4 +13,24 @@ form {
 #AccountsForm {
     margin-top: 100px;
 
+}
+
+form{
+    margin-top: 10px;
+}
+.card{
+    margin-top:100px;
+    width: 50%;
+    justify-content: center;
+}
+
+.acct-input{
+    margin-top: 100px ;
+}
+
+.btn-login {
+    margin: 20px 200px;
+}
+.pwd{
+    text-align: center;
 }
