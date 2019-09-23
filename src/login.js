@@ -3,7 +3,7 @@ $(document).ready(function(){
         let email = $("#email").val();
         let password = $("#password").val();
 
-        console.log("EMail:" + email);
+        console.log("Email:" + email);
         console.log("Password:" + password);
 
         if(email=='' || password==''){
@@ -11,7 +11,7 @@ $(document).ready(function(){
         }
 
         else if(email=='account@client.com' && password == 'account123'){
-            $(location).attr('href','Accounts.html');           
+            $(location).attr('href','AccountsList.html');           
         }
 
         else if(email=='competency@hexaware.com' && password == 'competency123'){
